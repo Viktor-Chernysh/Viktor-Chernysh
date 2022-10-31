@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viktor-Chernysh
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning: front-end
+- 🌱 I’m currently learning: full stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: viktor.chernysh.work@gmail.com
 
