@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Viktor-Chernysh
 - 👀 I’m interested in ...
-- 🌱 I’m junior full stack developer.
+- 🌱 I’m full stack developer.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: viktor.chernysh.work@gmail.com
 
